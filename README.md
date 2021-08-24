@@ -1,2 +1,2 @@
 # free-disposable-email-lists
-The most complete list of free and disposable email domains provided by https://wivo.io
+The most complete list of free and disposable email domains developed by https://wivo.io
